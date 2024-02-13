@@ -3,7 +3,7 @@
 ![img](https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt98d8a946b63c9b5f/64b7170ab314c94aa481d8c3/Untitled_design_(1).jpg)
 
 ## Introduction
-Streamlit Chatbot to chat with LLAMA II. It is trained on 7B parameters and achieves a perplexity of 9.3 on the OpenSubtitles testset. The model is trained using the [HuggingFace]([https://huggingface.co/](https://huggingface.co/docs/transformers/model_doc/llama2) library.
+Streamlit Chatbot to chat with LLAMA II. It is trained on 7B parameters and achieves a perplexity of 9.3 on the OpenSubtitles testset. The model is trained using the [HuggingFace](https://huggingface.co/docs/transformers/model_doc/llama2) library.
 
 
 
